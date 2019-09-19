@@ -1,0 +1,17 @@
+.profile-wrapper{
+    display: flex;
+    justify-content: center;
+}
+.profile{
+    width: 300px;
+    margin: 100px;
+}
+.bio{
+    background-color: #1F567A;
+    width: 30%;
+    border: 1px solid #F1F3F8;
+    margin: 100px 80px 100px 0px;
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+}

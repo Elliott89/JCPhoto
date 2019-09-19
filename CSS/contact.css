@@ -1,0 +1,21 @@
+.contact{
+    margin: 10%;
+    margin-top: 10px;
+    display: flex;
+    margin-bottom: 10px;
+}
+.map {
+   
+}
+.contact-image{
+    width: 800px;
+    box-shadow: 5px 5px 10px;
+}
+.map-wrapper{
+    display: flex;
+    flex: row;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin: 40px;
+    padding: 40px;
+}
